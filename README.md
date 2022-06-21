@@ -19,3 +19,6 @@ a app for students to resite the words of CET4 or CET6 based on Qt with C++
 + 个性化按钮
 + 用户注册
 + 为用户创建文件
+## 尾言
+感谢吴佩颖的最终背景音乐和切换背景, 以及清新的背景图片
+感谢王一博的搜索框
