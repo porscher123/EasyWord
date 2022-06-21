@@ -1,7 +1,9 @@
 # EasyWord
 a app for students to resite the words of CET4 or CET6 based on Qt with C++
-+ 西瓜背词
+## 创作原因
 + 大一下的面向对象课设
+## 应用特点
++ 西瓜主题
 + 基于Qt
 ## 功能
 + 注册
