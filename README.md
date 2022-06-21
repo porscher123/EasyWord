@@ -1,5 +1,6 @@
 # EasyWord 简易背单词
 a app for students to resite the words of CET4 or CET6 based on Qt with C++
+
 基于C++Qt的图形化应用程序, 背单词软件
 ## 创作原因
 + 大一下的面向对象课设
